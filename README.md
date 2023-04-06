@@ -1,4 +1,4 @@
-# Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch
+# COVID-19 Detection from Chest X-Ray Images using PyTorch
 
 ![Captura de tela de 2020-08-10 00-29-43](https://user-images.githubusercontent.com/65929471/90020409-36b85580-dc86-11ea-9c7e-94ebab83e912.png)
 
